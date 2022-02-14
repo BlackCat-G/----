@@ -3,3 +3,4 @@ var testData01 = "first commit";
 var testData02 = {
     
 }
+var json = {'username':'gaohang'}

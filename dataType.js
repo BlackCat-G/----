@@ -16,4 +16,16 @@ function implmentMove(){
         let yLocation = 50,zLocation = 60;
     console.log(xLocation);
 }
+function implmentXlocation(){
+    let obj = {
+        'username':'iiii',
+        'password':'123456',
+        'email':'2212930566@qq.com'
+    }
+    let p= new promise(function(){
+        inject('loser')
+    },function(){   
+        
+    });
+}
 createThing();
